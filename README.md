@@ -61,13 +61,13 @@ cd client
 npm start
 ```
 
-## Authors
+## Contactus
 
-- [@AnuragRoshan](https://github.com/AnuragRoshan)
+- [@AbhishekRaj](https://github.com/Abhishek5282)
 
 ## Feedback
 
-If you have any feedback, please reach out to us at anuragraushan373@gmail.com
+If you have any feedback, please reach out to us at abhishekrajdbas0@gmail.com
 
 ## Landing Page
 
